@@ -13,3 +13,4 @@ This fun open source game was cloned from: https://github.com/jakesgordon/javasc
 - Realizando un merge commit
 - Realizando un merge squash 1
 - Realizando un merge squash 2
+- Realizando un merge squash 3
