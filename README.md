@@ -11,3 +11,4 @@ This fun open source game was cloned from: https://github.com/jakesgordon/javasc
 - Cambios realizados por hdfabra, segundo intento y tercer intento. Desde hdfabra se resolvió el conflicto.
 
 - Realizando un merge commit
+- Realizando un merge squash 1
